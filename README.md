@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kashishksy and I love cats
+- 👋 Hi, I’m @kashishksy and I love cats and all things front-end
 - 👀 I love programming and problem-solving in general and cats 🐈 😺 
-- 🌱 I’m currently learning Mobile app development 
+- 🌱 I recently finished my post-grad degree in Mobile app development 
 - ⚡ Fun fact: did I mention that ....I love cats? ❤️
 
 <!---
